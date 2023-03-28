@@ -22,7 +22,7 @@
 5. NODEJS
 6. EXPRESS.JS
 
-## Assumptions 🏆
+
 ## Assumptions ✍️
 <details>
   <summary>Click to expand!</summary>
