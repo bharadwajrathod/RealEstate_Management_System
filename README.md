@@ -59,6 +59,9 @@ In this project, me and team mates assumed as:
 3) Officer can view the total sold and rented houses that are stored in an agent profile
 ![image](https://user-images.githubusercontent.com/64728560/228352783-fcc6530b-0158-4e06-ba90-5a1a09befe7d.png)
 
+4)Officer can add to  an agent as well as property
+![image](https://user-images.githubusercontent.com/64728560/228354073-3b12091a-2bfe-41fe-bce2-76860e279158.png)
+
 
 
 
