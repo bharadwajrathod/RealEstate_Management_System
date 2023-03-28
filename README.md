@@ -62,6 +62,22 @@ In this project, me and team mates assumed as:
 4)Officer can add to  an agent as well as property
 ![image](https://user-images.githubusercontent.com/64728560/228354073-3b12091a-2bfe-41fe-bce2-76860e279158.png)
 
+## Project's Table of Contents ✍️
+<details>
+  <summary>Click to expand!</summary>
+  
+1. Problem statement
+2. Import Libraries and Data
+3. Handling Missing Values
+4. Data Analysis and Visualization
+5. Outlier Detection
+6. Check for Rare Categories
+7. Categorical Variables Encoding
+8. Dataset Splitting
+9. Modeling and Parameter Optimization
+10. Feature Importance
+11. Results
+
 
 
 
