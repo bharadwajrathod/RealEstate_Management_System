@@ -37,11 +37,11 @@
   <summary>Click to expand!</summary>
 
  ## Features and Functionalities :
-     ## Overview of HOME PAGE :
+     A) Overview of HOME PAGE :
          we can Login in both ways - LogIn as Agent and LogIn as Officer
 ![image](https://user-images.githubusercontent.com/64728560/228339357-508d3061-94f5-40b4-98c1-6b0be132605f.png)
 
-## Login as Agents :
+## B) Login as Agents :
 
 1) Property details of a particular Agent:
 ![image](https://user-images.githubusercontent.com/64728560/228339712-9d19c67c-b426-4e92-a010-0acd9ea680cb.png)
@@ -52,7 +52,7 @@
 3) An Agent can update the Properties  whether it is available as OPEN/CLOSE at that particular time:
 ![image](https://user-images.githubusercontent.com/64728560/228346240-960a5cf6-e8e0-4269-83de-39c83fecafa6.png)
 
-## Login as Officer:
+## C) Login as Officer:
 1) Login as OFFICE 
 ![image](https://user-images.githubusercontent.com/64728560/228352611-972f35fe-2641-4836-a2c3-090848b56c77.png)
 
@@ -67,8 +67,9 @@
 
 
   
-1. ER-DIAGRAM : https://drive.google.com/file/d/1n32yWKwlTSHMKirx2Y-2M4aoeN5EUKoi/view?usp=share_link
-2. MYSQL DataBase with queries : 
+##  D) ER-DIAGRAM :
+           https://drive.google.com/file/d/1n32yWKwlTSHMKirx2Y-2M4aoeN5EUKoi/view?usp=share_link
+## E) MYSQL DataBase with queries : 
     I)https://drive.google.com/file/d/1quGM12A4rOZaQanZtqSaCbBGAfPSlTvA/view?usp=share_link
    II)https://drive.google.com/file/d/1pwNcuTduBNudP3mygUFPH7mjp8qkA1gh/view?usp=share_link
 
