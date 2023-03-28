@@ -35,7 +35,7 @@ In this project, me and team mates assumed as:
 
 
 ## Features and Functionalities:
-1) Overview of HOME PAGE we can in both ways : LogIn as Agent and LogIn as Officer
+1) Overview of HOME PAGE we can Login in both ways : LogIn as Agent and LogIn as Officer
 ![image](https://user-images.githubusercontent.com/64728560/228339357-508d3061-94f5-40b4-98c1-6b0be132605f.png)
 
 ## Login as Agents :
@@ -48,6 +48,17 @@ In this project, me and team mates assumed as:
 
 3) An Agent can update the Properties  whether it is available as OPEN/CLOSE at that particular time:
 ![image](https://user-images.githubusercontent.com/64728560/228346240-960a5cf6-e8e0-4269-83de-39c83fecafa6.png)
+
+## Login as Officer:
+1) Login as OFFICE 
+![image](https://user-images.githubusercontent.com/64728560/228352611-972f35fe-2641-4836-a2c3-090848b56c77.png)
+
+2) Officer can view agent profiles
+![image](https://user-images.githubusercontent.com/64728560/228352688-9fad520c-a487-4999-aa35-27696ec931ed.png)
+
+3) Officer can view the total sold and rented houses that are stored in an agent profile
+![image](https://user-images.githubusercontent.com/64728560/228352783-fcc6530b-0158-4e06-ba90-5a1a09befe7d.png)
+
 
 
 
