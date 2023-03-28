@@ -65,17 +65,10 @@
 <details>
   <summary>Click to expand!</summary>
   
-1. Problem statement
-2. Import Libraries and Data
-3. Handling Missing Values
-4. Data Analysis and Visualization
-5. Outlier Detection
-6. Check for Rare Categories
-7. Categorical Variables Encoding
-8. Dataset Splitting
-9. Modeling and Parameter Optimization
-10. Feature Importance
-11. Results
+1. ER-DIAGRAM : https://drive.google.com/file/d/1n32yWKwlTSHMKirx2Y-2M4aoeN5EUKoi/view?usp=share_link
+2. MYSQL DataBase with queries : 
+    I)https://drive.google.com/file/d/1quGM12A4rOZaQanZtqSaCbBGAfPSlTvA/view?usp=share_link
+   II)https://drive.google.com/file/d/1pwNcuTduBNudP3mygUFPH7mjp8qkA1gh/view?usp=share_link
 
 
 
