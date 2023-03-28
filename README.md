@@ -2,22 +2,17 @@
  
 - This project is a User Friendly Dynamic Web Application for the Database Management System of Real-Estate Office.
  
-- The application consists of Buyers Module, Agents Module and Sellers Module, in which seller  upload their details and Buyers can buy the properties by contacting the Agents.
+- The application consists of Buyers Module, Agents Module and Sellers Module, in which Sellers  upload their details and Buyers can buy the properties by contacting the Agents.
 
 - The Application Allows Crud operations on the modules and display 
         the updated data to corresponding to respective module.
 
+- These is best platform to buy the houses as well as for renting the houses in a required area by communicating each other in online mode with out wasting any time .
 
 <p align="center">
   <img width="750" height="250" src="https://content.usaa.com/mcontent/static_assets/Media/real-estate-rern-vid-teaser.gif?cacheid=3092709742_p">
 </p>
 
-# College-Engagement-App
-- Developed a Dynamic web app application to get an information about past Interview Experience and sharing content about College life is from the seniors and friends who have gone through the good and bad experience by posting/blogging .
-- These blogs / posts are stored in sorted manner to view other
-students too and must must login .
-- These is best place to get information about college life is from the people who have gone through lot of  experience. Reading through these blogs will make you feel as if you have a virtual older sibling is guiding you through this, for upcoming students and jnrs and friends.
-- Many of u will get an idea about past Interview Experience  and learn through these blogs .
 
 ## Tech stack :
 1. HTML
