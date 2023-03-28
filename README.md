@@ -32,7 +32,9 @@
 * [x] Each buyer is associated with an agent to buy/see the property.
 * [x] A property is owned/purchased by a single person(No partnership).
 
-
+## Project's Related Stuffs ✍️
+<details>
+  <summary>Click to expand!</summary>
 ## Features and Functionalities:
 1) Overview of HOME PAGE we can Login in both ways : LogIn as Agent and LogIn as Officer
 ![image](https://user-images.githubusercontent.com/64728560/228339357-508d3061-94f5-40b4-98c1-6b0be132605f.png)
@@ -61,9 +63,7 @@
 4)Officer can add to  an agent as well as property
 ![image](https://user-images.githubusercontent.com/64728560/228354073-3b12091a-2bfe-41fe-bce2-76860e279158.png)
 
-## Project's Related Stuffs ✍️
-<details>
-  <summary>Click to expand!</summary>
+
   
 1. ER-DIAGRAM : https://drive.google.com/file/d/1n32yWKwlTSHMKirx2Y-2M4aoeN5EUKoi/view?usp=share_link
 2. MYSQL DataBase with queries : 
