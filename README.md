@@ -23,9 +23,7 @@
 6. EXPRESS.JS
 
 
-## Assumptions ✍️
-<details>
-  <summary>Click to expand!</summary>
+## Assumptions 🏆:
  In this project, me and team mates assumed as:
 * [x] Every property must be associated with an agent.
 * [x] A property can either be for rent or sale but not both.
@@ -63,7 +61,7 @@
 4)Officer can add to  an agent as well as property
 ![image](https://user-images.githubusercontent.com/64728560/228354073-3b12091a-2bfe-41fe-bce2-76860e279158.png)
 
-## Project's Table of Contents ✍️
+## Project's Related Stuffs ✍️
 <details>
   <summary>Click to expand!</summary>
   
