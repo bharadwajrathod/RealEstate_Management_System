@@ -23,15 +23,16 @@
 6. EXPRESS.JS
 
 ## Assumptions 🏆
-
-In this project, me and team mates assumed as:
-
-* [x] Every property must be associated with an agent.
-* [x] A property can either be for rent or sale but not both.
-* [x] Sales are updated only when a successful deal is made.
-* [x] Only one agent can manage a property.
-* [x] Each buyer is associated with an agent to buy/see the property.
-* [x] A property is owned/purchased by a single person(No partnership).
+## Assumptions ✍️
+<details>
+  <summary>Click to expand!</summary>
+ In this project, me and team mates assumed as:
+ * [x] Every property must be associated with an agent.
+ * [x] A property can either be for rent or sale but not both.
+ * [x] Sales are updated only when a successful deal is made.
+ * [x] Only one agent can manage a property.
+ * [x] Each buyer is associated with an agent to buy/see the property.
+ * [x] A property is owned/purchased by a single person(No partnership).
 
 
 ## Features and Functionalities:
