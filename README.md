@@ -33,7 +33,7 @@ In this project, me and team mates assumed as:
 * [x] A property is owned/purchased by a single person(No partnership).
 
 
-##Features and Functionalities:
+## Features and Functionalities:
 1)HOME PAGE LogIn as Agent and LogIn as Officer
 ![image](https://user-images.githubusercontent.com/64728560/228339357-508d3061-94f5-40b4-98c1-6b0be132605f.png)
 
