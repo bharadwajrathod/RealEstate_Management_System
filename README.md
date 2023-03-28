@@ -1,9 +1,9 @@
 ﻿# Real-State-Management system:
  
-- This project is a User Friendly Dynamic Web Application for the 
-    Database Management System of Real-Estate Office.
--The application consists of Buyers Module, Agents Module and Sellers Module, in which seller 
-    upload their details and Buyers can buy the properties by contacting the Agents.
+- This project is a User Friendly Dynamic Web Application for the Database Management System of Real-Estate Office.
+ 
+-The application consists of Buyers Module, Agents Module and Sellers Module, in which seller  upload their details and Buyers can buy the properties by contacting the Agents.
+
 - The Application Allows Crud operations on the modules and display 
         the updated data to corresponding to respective module.
 
