@@ -35,16 +35,18 @@ In this project, me and team mates assumed as:
 
 
 ## Features and Functionalities:
-1) HOME PAGE LogIn as Agent and LogIn as Officer
+1) Overview of HOME PAGE we can in both ways : LogIn as Agent and LogIn as Officer
 ![image](https://user-images.githubusercontent.com/64728560/228339357-508d3061-94f5-40b4-98c1-6b0be132605f.png)
 
-2) Property details of a particular Agent:
+## Login as Agents :
+
+1) Property details of a particular Agent:
 ![image](https://user-images.githubusercontent.com/64728560/228339712-9d19c67c-b426-4e92-a010-0acd9ea680cb.png)
 
-3) Properties that are Sold/Rented by an Agent:
+2) Properties that are Sold/Rented by an Agent:
 ![image](https://user-images.githubusercontent.com/64728560/228345806-123ce443-6d6f-4e78-ba5c-d4a29a954493.png)
 
-4) An Agent can update the Properties  whether it is available as OPEN/CLOSE at that particular time:
+3) An Agent can update the Properties  whether it is available as OPEN/CLOSE at that particular time:
 ![image](https://user-images.githubusercontent.com/64728560/228346240-960a5cf6-e8e0-4269-83de-39c83fecafa6.png)
 
 
