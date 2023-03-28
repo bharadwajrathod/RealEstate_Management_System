@@ -7,7 +7,8 @@
 - The Application Allows Crud operations on the modules and display 
         the updated data to corresponding to respective module.
 
-- These is best platform to buy the houses as well as for renting the houses in a required area by communicating each other in online mode with out wasting any time .
+- These is best platform to buy/sell the houses as well as for renting the houses in a required area. 
+- By communicating each other in online mode with out wasting any time of each individuals.
 
 <p align="center">
   <img width="750" height="250" src="https://content.usaa.com/mcontent/static_assets/Media/real-estate-rern-vid-teaser.gif?cacheid=3092709742_p">
@@ -37,7 +38,8 @@
   <summary>Click to expand!</summary>
 
  ## Features and Functionalities :
-     A) Overview of HOME PAGE :
+ 
+ ## A) Overview of HOME PAGE :
          we can Login in both ways - LogIn as Agent and LogIn as Officer
 ![image](https://user-images.githubusercontent.com/64728560/228339357-508d3061-94f5-40b4-98c1-6b0be132605f.png)
 
