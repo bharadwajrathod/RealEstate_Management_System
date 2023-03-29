@@ -35,7 +35,7 @@
 
 ## Project's Related Stuffs ✍️
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand - Overview of Project!</summary>
 
  ## Features and Functionalities :
  
