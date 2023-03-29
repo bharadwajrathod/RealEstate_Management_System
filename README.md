@@ -1,8 +1,8 @@
 ﻿# Real-State-Management system:
  ![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
  ![MYSQL](https://img.shields.io/badge/MYSQL----red)
- ![Node.js](https://img.shields.io/badge/nodejs-18.15.0-brightgreen)
- ![Express.js](https://img.shields.io/badge/express.js-5.0-yellow)
+ ![Node.js](https://img.shields.io/badge/Backend-Node.js-yellowgreen)
+ ![Express.js](https://img.shields.io/badge/web%20framework%20-express.js-yellow)
  
  
 - This project is a User Friendly Dynamic Web Application for the Database Management System of Real-Estate Office.
